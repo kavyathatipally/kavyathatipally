@@ -47,5 +47,10 @@ class DataAnalyst:
 
 me = DataAnalyst()
 print(me.mission())
+Python Programming      ███████████████████░░  90%
+Data Analysis           ██████████████████░░░  85%
+Data Cleaning           █████████████████░░░░  85%
+Data Visualization      █████████████████░░░░  85%
+Reporting & Insights    █████████████████░░░░  85%
 
 
