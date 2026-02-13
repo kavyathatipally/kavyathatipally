@@ -57,5 +57,38 @@ Adaptability            ██████████████████�
 Decision Making         █████████████████░░░░  85%
 Work Under Pressure     ███████████████████░░  90%
 Listening Skills        ███████████████████░░  90%
+<!-- ================= GITHUB STATS SECTION ================= -->
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thatipallykavya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<!-- Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatipallykavya&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=thatipallykavya&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thatipallykavya&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+<!-- ================= END GITHUB STATS SECTION ================= -->
 
 
