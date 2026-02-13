@@ -1,108 +1,74 @@
-# 👩‍💻 Thatipally Kavya
+<!-- ================= PORTFOLIO DASHBOARD SECTION ================= -->
 
-📧 Email: thatipallykavya70@gmail.com  
-📱 Mobile: 9652443653  
-🎓 B.Tech – Computer Science and Engineering  
-🏫 Guru Nanak Institutions Technical Campus (Autonomous), Hyderabad  
-📊 CGPA: 7.0  
+# 📊 Portfolio Dashboard
 
----
-
-## 🎯 Objective
-
-Seeking a challenging position in the industry to apply and expand my technical skills. Dedicated to continuous learning and professional development with a passion for innovation and problem-solving.
+<div align="center">
+  <img src="https://img.shields.io/badge/Professional_Portfolio-Data_Analytics-2C5364?style=for-the-badge"/>
+</div>
 
 ---
 
-# 🚀 Projects
+## 📈 Project Analytics Overview
 
-## 🏢 Employee Working Activity Detection Analysis
+<div align="center">
 
-### 📌 Project Overview
-A computerized system developed to manage employee data, track projects, and analyze performance by replacing inefficient manual/Excel-based processes.
+<table>
+<tr>
+<th>Project</th>
+<th>Domain</th>
+<th>Status</th>
+<th>Type</th>
+<th>Impact</th>
+</tr>
+<tr>
+<td>Employee Working Activity Detection Analysis</td>
+<td>Workforce Data Analytics</td>
+<td>Completed</td>
+<td>Academic Project</td>
+<td>High</td>
+</tr>
+<tr>
+<td>Business Data Dashboard (Planned)</td>
+<td>Business Analytics</td>
+<td>Upcoming</td>
+<td>Portfolio Project</td>
+<td>Growing</td>
+</tr>
+</table>
 
-### 🎯 Problem Statement
-Organizations relying on manual systems face:
-- Data redundancy
-- Human errors
-- Security issues
-- Slow data access
-- Limited decision-making support
-
-### 💡 Solution
-An automated employee management and activity tracking system that:
-- Stores employee records securely
-- Tracks project progress
-- Monitors employee performance
-- Supports HR decision-making
-
-### 🔧 Key Features
-- Employee Data Management
-- Project Tracking
-- Leave Management
-- Performance Evaluation
-- Resource Planning
-- Secure Database Handling
-
-### 📈 Impact
-- Improved efficiency
-- Reduced errors
-- Enhanced security
-- Faster record retrieval
-- Better HR analytics
-
-### 🏢 Applications
-- Small, Medium & Large Organizations
-- HR Departments
-- IT Companies
-- Corporate Offices
+</div>
 
 ---
 
-# 🛠️ Technical Skills
+# 🏢 Featured Project Panel
 
-### 💻 Programming
-- Python  
-- Artificial Intelligence (AI)  
-- Machine Learning (ML)
+## Employee Working Activity Detection Analysis
 
----
+<div align="center">
 
-# 📜 Certifications
-- Introduction to Artificial Intelligence  
-- Introduction to Natural Language Processing  
-- Introduction to Deep Learning  
+<img src="https://img.shields.io/badge/Domain-Workforce_Data_Analytics-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Category-Performance_Tracking-2C5364?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Data_Management-1ABC9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Completed-34495E?style=for-the-badge"/>
 
----
-
-# 🎓 Education
-
-**B.Tech (2021–2025)**  
-Computer Science and Engineering  
-Guru Nanak Institutions Technical Campus, Hyderabad  
-
-**Intermediate (2019–2021)**  
-MPC – NSR Impulse Junior College, Hyderabad  
-
-**SSC (2019)**  
-Krishnaveni (EM) High School, Sulthanabad  
+</div>
 
 ---
 
-# 🤝 Soft Skills
-- Listening Skills  
-- Teamwork  
-- Adaptability  
-- Decision Making  
-- Ability to Work Under Pressure  
+### 📌 Business Problem
+Organizations relying on manual or spreadsheet-based employee tracking systems face:
+- Data redundancy  
+- Slow performance analysis  
+- Poor reporting efficiency  
+- Limited workforce visibility  
 
 ---
 
-# 📚 Interests
-- Reading Books  
-- Learning New Technologies  
+### 🔍 Data Analytics Focus
 
----
-
-# 🌟 Career Goal
-To grow as a Software Engineer and contribute to innovative projects in AI, ML, and Data Analytics while continuously upgrading my skills.
+```yaml
+✔ Structured Employee Dataset Design
+✔ Performance Data Analysis
+✔ Workflow Monitoring
+✔ Data Accuracy Enhancement
+✔ Reporting & Insight Generation
